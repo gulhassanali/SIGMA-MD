@@ -1,23 +1,23 @@
 {
-  "name": "sigma-md",
+  "name": "HASSAN MD",
   "version": "1.5.3",
-  "description": "A CRAZY WHATSAPP BOT BY Maher Zubair",
+  "description": "A CRAZY WHATSAPP BOT BY Hassan",
   "main": "lib/client.js",
   "type": "commonjs",
   "scripts": {
       "start": "pm2 start lib/client.js --deep-monitoring --attach --name SIGMA-MD",
       "stop": "pm2 stop SIGMA-MD"
   },
-  "author": "Maher-Zubair",
+  "author": "HASSAN",
   "license": "Apache-2.0",
   "keywords": [
       "bot",
       "Whatsapp bot",
-      "sigma-md",
-      "sigma",
-      "sigma-md bot",
-      "SIGMA-MD",
-      "Maher-Zubair",
+      "HASSAN Brovhi",
+      "HASSAN",
+      "HASSAN MD bot",
+      "Hassan-MD",
+      "HASSAN",
       "Multi-Device Bot",
       "WaBot",
       "Baileys Bot"
